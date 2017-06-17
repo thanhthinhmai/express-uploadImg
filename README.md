@@ -1,6 +1,5 @@
 # using_express
 ## cách dùng : 
-git clone https://github.com/lephuongtu271094/using_express.git
 
 npm install
 
